@@ -1,2 +1,2 @@
 # Python_project
-BaranzevCourse
+Repository for Barancev course
